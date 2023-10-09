@@ -16,6 +16,10 @@ header {
     color: #b60;
 }
 
+#div1 {
+    font-weight: bold;
+}
+
 /* Style the navigation menu */
 nav ul {
     list-style: none;
